@@ -4,7 +4,7 @@ client.auth(email="gmail", password="password")
 CHAT_CONST="chat_id"
 NDC_CONST="id comunity"
 old_messages = ["fmsg"]
-oll = 'spam'
+oll = '!spam'
 if oll == '!spam':
 	client.send_message(ndc_Id=NDC_CONST, thread_Id=CHAT_CONST, message=';😀 😃 😄 😁 😆 😅 😂 🤣 😇 😉 😊 🙂 🙃 ☺ 😋 😌 😍 🥰 😘 😗 😙 😚 🥲 🤪 😜 😝 😛 🤑 😎 🤓 🥸 🧐 🤠 🥳 🤗 🤡 😏 😶 😐 😑 😒 🙄 🤨 🤔 🤫 🤭 🤥 😳 😞 😟 😠 😡 🤬 😔 😕 🙁 ☹', message_type=109)
 
